@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
   s.dependency 'SwiftyJSON', '~> 3.1.0'
   s.dependency 'Starscream', '~> 2.0.0'
   s.dependency 'KeychainAccess', '~> 3.0.0'
-  s.dependency 'CocoaLumberjack/Swift', '~> 1.9'
+  s.dependency 'CocoaLumberjack', '~> 1.9'
 end
