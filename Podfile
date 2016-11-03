@@ -6,9 +6,9 @@ def shared_pods
 	pod 'ObjectMapper', '~> 2.0.0'
 	pod 'AlamofireObjectMapper', '~> 4.0.0'
 	pod 'SwiftyJSON', '~> 3.1.0'
-	pod 'Starscream', '~> 2.0.0'
+	pod 'Starscream', '~> 1.3'
 	pod 'KeychainAccess', '~> 3.0.0'
-	pod 'CocoaLumberjack/Swift', '~> 1.9'
+	pod 'CocoaLumberjack/Swift', '~> 3.0'
 end
 
 target 'SparkSDK' do
